@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074763730717",
+    "project_id": "cycle-e35fd",
+    "storage_bucket": "cycle-e35fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074763730717:android:fd0a96343907bc4fffdbf4",
+        "android_client_info": {
+          "package_name": "com.retron.cycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074763730717-6cl0f2jf35mrj27oj00d5o23860ua0ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lTgLXmd0XQShDcYSInt8MOg331Sv_x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074763730717-6cl0f2jf35mrj27oj00d5o23860ua0ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
